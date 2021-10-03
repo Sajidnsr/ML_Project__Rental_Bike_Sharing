@@ -1,0 +1,118 @@
+2021-09-26/19:14:19		Entered the function: get_model_scores of the class: ModelScorer
+2021-09-26/19:14:19		Entered the function: get_model_scores of the class: ModelScorer
+2021-09-26/19:14:19		Entered the function: get_model_scores of the class: ModelScorer
+2021-09-26/19:14:20		Entered the function: get_model_scores of the class: ModelScorer
+2021-09-26/19:14:20		Entered the function: get_model_scores of the class: ModelScorer
+2021-09-26/19:14:20		Entered the function: get_model_scores of the class: ModelScorer
+2021-09-26/19:14:27		Entered the function: get_model_scores of the class: ModelScorer
+2021-09-26/19:14:35		Entered the function: get_model_scores of the class: ModelScorer
+2021-09-26/19:14:19		Current Script: models.py
+2021-09-26/19:14:19		Entered the class: ModelMetricsGenerator
+2021-09-26/19:14:19		Entered the function: create_model_metrics of the class: ModelMetricsGenerator
+2021-09-26/19:14:19		Successfully trained LinearRegression() model.
+2021-09-26/19:14:19		Successfully calculated the r_squared and rmse for LinearRegression() model.
+2021-09-26/19:14:19		Successfully trained DecisionTreeRegressor() model.
+2021-09-26/19:14:19		Successfully calculated the r_squared and rmse for DecisionTreeRegressor() model.
+2021-09-26/19:14:19		Successfully trained RandomForestRegressor() model.
+2021-09-26/19:14:19		Successfully calculated the r_squared and rmse for RandomForestRegressor() model.
+2021-09-26/19:14:20		Successfully trained ExtraTreesRegressor() model.
+2021-09-26/19:14:20		Successfully calculated the r_squared and rmse for ExtraTreesRegressor() model.
+2021-09-26/19:14:20		Successfully appended model name and model metrics as a dictionary.
+2021-09-26/19:14:20		Start of model training for day data.
+2021-09-26/19:14:20		Successfully dumped the model metrics to day_metrics.json.
+2021-09-26/19:14:20		Entered the function: create_model_metrics of the class: ModelMetricsGenerator
+2021-09-26/19:14:20		Successfully trained LinearRegression() model.
+2021-09-26/19:14:20		Successfully calculated the r_squared and rmse for LinearRegression() model.
+2021-09-26/19:14:20		Successfully trained DecisionTreeRegressor() model.
+2021-09-26/19:14:20		Successfully calculated the r_squared and rmse for DecisionTreeRegressor() model.
+2021-09-26/19:14:27		Successfully trained RandomForestRegressor() model.
+2021-09-26/19:14:27		Successfully calculated the r_squared and rmse for RandomForestRegressor() model.
+2021-09-26/19:14:35		Successfully trained ExtraTreesRegressor() model.
+2021-09-26/19:14:35		Successfully calculated the r_squared and rmse for ExtraTreesRegressor() model.
+2021-09-26/19:14:35		Successfully appended model name and model metrics as a dictionary.
+2021-09-26/19:14:35		Start of model training for hour data.
+2021-09-26/19:14:35		Successfully dumped the hour metrics to hour_metrics.json.
+2021-09-28/10:59:10		Entered the function: get_model_scores of the class: ModelScorer
+2021-09-28/10:59:12		Exited the function: get_model_scores of the class: ModelScorer
+2021-09-28/10:59:29		Entered the function: get_model_scores of the class: ModelScorer
+2021-09-28/10:59:29		Exited the function: get_model_scores of the class: ModelScorer
+2021-09-28/11:00:29		Entered the function: get_model_scores of the class: ModelScorer
+2021-09-28/11:00:29		Exited the function: get_model_scores of the class: ModelScorer
+2021-09-28/11:00:29		Entered the function: get_model_scores of the class: ModelScorer
+2021-09-28/11:00:29		Exited the function: get_model_scores of the class: ModelScorer
+2021-09-28/11:00:35		Entered the function: get_model_scores of the class: ModelScorer
+2021-09-28/11:00:36		Exited the function: get_model_scores of the class: ModelScorer
+2021-09-28/11:00:36		Entered the function: get_model_scores of the class: ModelScorer
+2021-09-28/11:00:36		Exited the function: get_model_scores of the class: ModelScorer
+2021-09-28/11:00:48		Entered the function: get_model_scores of the class: ModelScorer
+2021-09-28/11:00:48		Exited the function: get_model_scores of the class: ModelScorer
+2021-09-28/11:01:02		Entered the function: get_model_scores of the class: ModelScorer
+2021-09-28/11:01:02		Exited the function: get_model_scores of the class: ModelScorer
+2021-09-28/10:58:41		Current Script: models.py
+2021-09-28/10:58:41		Entered the class: ModelMetricsGenerator
+2021-09-28/10:58:41		Entered the function: create_model_metrics of the class: ModelMetricsGenerator
+2021-09-28/10:59:10		Successfully trained LinearRegression() model.
+2021-09-28/10:59:12		Successfully calculated the r_squared and rmse for LinearRegression() model.
+2021-09-28/10:59:29		Successfully trained DecisionTreeRegressor() model.
+2021-09-28/10:59:29		Successfully calculated the r_squared and rmse for DecisionTreeRegressor() model.
+2021-09-28/11:00:29		Successfully trained RandomForestRegressor() model.
+2021-09-28/11:00:29		Successfully calculated the r_squared and rmse for RandomForestRegressor() model.
+2021-09-28/11:00:29		Successfully trained ExtraTreesRegressor() model.
+2021-09-28/11:00:29		Successfully calculated the r_squared and rmse for ExtraTreesRegressor() model.
+2021-09-28/11:00:29		Successfully appended model name and model metrics as a dictionary.
+2021-09-28/11:00:29		Start of model training for day data.
+2021-09-28/11:00:29		Successfully dumped the model metrics to day_metrics.json.
+2021-09-28/11:00:29		Entered the function: create_model_metrics of the class: ModelMetricsGenerator
+2021-09-28/11:00:35		Successfully trained LinearRegression() model.
+2021-09-28/11:00:36		Successfully calculated the r_squared and rmse for LinearRegression() model.
+2021-09-28/11:00:36		Successfully trained DecisionTreeRegressor() model.
+2021-09-28/11:00:36		Successfully calculated the r_squared and rmse for DecisionTreeRegressor() model.
+2021-09-28/11:00:48		Successfully trained RandomForestRegressor() model.
+2021-09-28/11:00:48		Successfully calculated the r_squared and rmse for RandomForestRegressor() model.
+2021-09-28/11:01:02		Successfully trained ExtraTreesRegressor() model.
+2021-09-28/11:01:02		Successfully calculated the r_squared and rmse for ExtraTreesRegressor() model.
+2021-09-28/11:01:02		Successfully appended model name and model metrics as a dictionary.
+2021-09-28/11:01:02		Start of model training for hour data.
+2021-09-28/11:01:02		Successfully dumped the hour metrics to hour_metrics.json.
+2021-10-03/14:52:10		Entered the function: get_model_scores of the class: ModelScorer
+2021-10-03/14:52:10		Exited the function: get_model_scores of the class: ModelScorer
+2021-10-03/14:52:10		Entered the function: get_model_scores of the class: ModelScorer
+2021-10-03/14:52:10		Exited the function: get_model_scores of the class: ModelScorer
+2021-10-03/14:52:11		Entered the function: get_model_scores of the class: ModelScorer
+2021-10-03/14:52:11		Exited the function: get_model_scores of the class: ModelScorer
+2021-10-03/14:52:11		Entered the function: get_model_scores of the class: ModelScorer
+2021-10-03/14:52:11		Exited the function: get_model_scores of the class: ModelScorer
+2021-10-03/14:52:11		Entered the function: get_model_scores of the class: ModelScorer
+2021-10-03/14:52:11		Exited the function: get_model_scores of the class: ModelScorer
+2021-10-03/14:52:11		Entered the function: get_model_scores of the class: ModelScorer
+2021-10-03/14:52:11		Exited the function: get_model_scores of the class: ModelScorer
+2021-10-03/14:52:18		Entered the function: get_model_scores of the class: ModelScorer
+2021-10-03/14:52:18		Exited the function: get_model_scores of the class: ModelScorer
+2021-10-03/14:52:25		Entered the function: get_model_scores of the class: ModelScorer
+2021-10-03/14:52:25		Exited the function: get_model_scores of the class: ModelScorer
+2021-10-03/14:52:10		Current Script: models.py
+2021-10-03/14:52:10		Entered the class: ModelMetricsGenerator
+2021-10-03/14:52:10		Entered the function: create_model_metrics of the class: ModelMetricsGenerator
+2021-10-03/14:52:10		Successfully trained LinearRegression() model.
+2021-10-03/14:52:10		Successfully calculated the r_squared and rmse for LinearRegression() model.
+2021-10-03/14:52:10		Successfully trained DecisionTreeRegressor() model.
+2021-10-03/14:52:10		Successfully calculated the r_squared and rmse for DecisionTreeRegressor() model.
+2021-10-03/14:52:11		Successfully trained RandomForestRegressor() model.
+2021-10-03/14:52:11		Successfully calculated the r_squared and rmse for RandomForestRegressor() model.
+2021-10-03/14:52:11		Successfully trained ExtraTreesRegressor() model.
+2021-10-03/14:52:11		Successfully calculated the r_squared and rmse for ExtraTreesRegressor() model.
+2021-10-03/14:52:11		Successfully appended model name and model metrics as a dictionary.
+2021-10-03/14:52:11		Start of model training for day data.
+2021-10-03/14:52:11		Successfully dumped the model metrics to day_metrics.json.
+2021-10-03/14:52:11		Entered the function: create_model_metrics of the class: ModelMetricsGenerator
+2021-10-03/14:52:11		Successfully trained LinearRegression() model.
+2021-10-03/14:52:11		Successfully calculated the r_squared and rmse for LinearRegression() model.
+2021-10-03/14:52:11		Successfully trained DecisionTreeRegressor() model.
+2021-10-03/14:52:11		Successfully calculated the r_squared and rmse for DecisionTreeRegressor() model.
+2021-10-03/14:52:18		Successfully trained RandomForestRegressor() model.
+2021-10-03/14:52:18		Successfully calculated the r_squared and rmse for RandomForestRegressor() model.
+2021-10-03/14:52:25		Successfully trained ExtraTreesRegressor() model.
+2021-10-03/14:52:25		Successfully calculated the r_squared and rmse for ExtraTreesRegressor() model.
+2021-10-03/14:52:25		Successfully appended model name and model metrics as a dictionary.
+2021-10-03/14:52:25		Start of model training for hour data.
+2021-10-03/14:52:25		Successfully dumped the hour metrics to hour_metrics.json.

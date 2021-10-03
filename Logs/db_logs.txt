@@ -1,0 +1,16 @@
+2021-09-26/19:13:31		Current Script: data_pull.py
+2021-09-26/19:13:31		Entered the class: datasetfetcher
+2021-09-26/19:13:31		Created original_data folder in assets directory
+2021-09-26/19:13:31		Entered the function: fetch_dataset of the class: datasetfetcher
+2021-09-26/19:13:49		Successfully connected to the database
+2021-09-26/19:13:51		Stored day data to day.csv
+2021-09-26/19:14:15		Stored hour data to hour.csv
+2021-09-26/19:14:15		Exited the function: fetch_dataset of the class: datasetfetcher
+2021-09-28/10:56:33		Current Script: data_pull.py
+2021-09-28/10:56:33		Entered the class: datasetfetcher
+2021-09-28/10:56:33		Created original_data folder in assets directory
+2021-09-28/10:56:33		Entered the function: fetch_dataset of the class: datasetfetcher
+2021-09-28/10:56:46		Successfully connected to the database
+2021-09-28/10:56:49		Stored day data to day.csv
+2021-09-28/10:57:13		Stored hour data to hour.csv
+2021-09-28/10:57:13		Exited the function: fetch_dataset of the class: datasetfetcher

@@ -1,0 +1,39 @@
+2021-09-26/19:14:18		Current Script: data_split.py
+2021-09-26/19:14:18		Entered the class: datasplit
+2021-09-26/19:14:18		Created split_data folder in assets directory
+2021-09-26/19:14:18		Start of day data splitting
+2021-09-26/19:14:18		Entered the function: split of the class: datasplit
+2021-09-26/19:14:18		Exited the function: split of the class: datasplit
+2021-09-26/19:14:18		End of day data splitting
+2021-09-26/19:14:18		Saved the splitted day datasets to the split_data folder
+2021-09-26/19:14:18		Start of hour data splitting
+2021-09-26/19:14:18		Entered the function: split of the class: datasplit
+2021-09-26/19:14:18		Exited the function: split of the class: datasplit
+2021-09-26/19:14:18		End of hour data splitting
+2021-09-26/19:14:19		Saved the splitted hour datasets to the split_data folder
+2021-09-28/10:57:29		Current Script: data_split.py
+2021-09-28/10:57:29		Entered the class: datasplit
+2021-09-28/10:57:29		Created split_data folder in assets directory
+2021-09-28/10:57:29		Start of day data splitting
+2021-09-28/10:57:29		Entered the function: split of the class: datasplit
+2021-09-28/10:57:29		Exited the function: split of the class: datasplit
+2021-09-28/10:57:29		End of day data splitting
+2021-09-28/10:57:29		Saved the splitted day datasets to the split_data folder
+2021-09-28/10:57:29		Start of hour data splitting
+2021-09-28/10:57:29		Entered the function: split of the class: datasplit
+2021-09-28/10:57:29		Exited the function: split of the class: datasplit
+2021-09-28/10:57:29		End of hour data splitting
+2021-09-28/10:58:41		Saved the splitted hour datasets to the split_data folder
+2021-10-03/14:52:10		Current Script: data_split.py
+2021-10-03/14:52:10		Entered the class: datasplit
+2021-10-03/14:52:10		Created split_data folder in assets directory
+2021-10-03/14:52:10		Start of day data splitting
+2021-10-03/14:52:10		Entered the function: split of the class: datasplit
+2021-10-03/14:52:10		Exited the function: split of the class: datasplit
+2021-10-03/14:52:10		End of day data splitting
+2021-10-03/14:52:10		Saved the splitted day datasets to the split_data folder
+2021-10-03/14:52:10		Start of hour data splitting
+2021-10-03/14:52:10		Entered the function: split of the class: datasplit
+2021-10-03/14:52:10		Exited the function: split of the class: datasplit
+2021-10-03/14:52:10		End of hour data splitting
+2021-10-03/14:52:10		Saved the splitted hour datasets to the split_data folder

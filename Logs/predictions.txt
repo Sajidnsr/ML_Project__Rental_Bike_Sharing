@@ -1,0 +1,182 @@
+2021-09-26/20:52:03		Current Script: day_predictions.py
+2021-09-26/20:52:03		Entered the class: day_predictions
+2021-09-26/20:52:03		Entered the function: predict of the class: day_predictions
+2021-09-26/20:52:04		Predicting the output for user input using day.sav
+2021-09-26/20:52:04		Exited the function: predict of the class: day_predictions
+2021-09-26/20:52:28		Current Script: hr_predictions.py
+2021-09-26/20:52:28		Entered the class: hour_predictions
+2021-09-26/20:52:28		Entered the function: predict of the class: hour_predictions
+2021-09-26/20:52:28		Predicting the output for user input using hour.sav
+2021-09-26/20:52:28		Exited the function: predict of the class: hour_predictions
+2021-09-28/10:34:28		Current Script: day_predictions.py
+2021-09-28/10:34:28		Entered the class: day_predictions
+2021-09-28/10:34:28		Entered the function: predict of the class: day_predictions
+2021-09-28/10:34:41		Exception occured in predict method of day_predictions class. Exception message: No module named 'joblib'
+2021-09-28/10:34:52		Current Script: day_predictions.py
+2021-09-28/10:34:52		Entered the class: day_predictions
+2021-09-28/10:34:52		Entered the function: predict of the class: day_predictions
+2021-09-28/10:34:52		Exception occured in predict method of day_predictions class. Exception message: No module named 'joblib'
+2021-09-28/10:35:15		Current Script: hr_predictions.py
+2021-09-28/10:35:15		Entered the class: hour_predictions
+2021-09-28/10:35:15		Entered the function: predict of the class: hour_predictions
+2021-09-28/10:35:16		Exception occured in predict method of hour_predictions class. Exception message: No module named 'joblib'
+2021-09-28/10:49:10		Current Script: day_predictions.py
+2021-09-28/10:49:10		Entered the class: day_predictions
+2021-09-28/10:49:10		Entered the function: predict of the class: day_predictions
+2021-09-28/10:50:12		Predicting the output for user input using day.sav
+2021-09-28/10:50:13		Exited the function: predict of the class: day_predictions
+2021-09-28/10:51:30		Current Script: day_predictions.py
+2021-09-28/10:51:30		Entered the class: day_predictions
+2021-09-28/10:51:30		Entered the function: predict of the class: day_predictions
+2021-09-28/10:51:30		Predicting the output for user input using day.sav
+2021-09-28/10:51:30		Exited the function: predict of the class: day_predictions
+2021-09-28/10:52:34		Current Script: hr_predictions.py
+2021-09-28/10:52:34		Entered the class: hour_predictions
+2021-09-28/10:52:34		Entered the function: predict of the class: hour_predictions
+2021-09-28/10:53:49		Predicting the output for user input using hour.sav
+2021-09-28/10:53:49		Exited the function: predict of the class: hour_predictions
+2021-09-28/23:22:39		Current Script: day_predictions.py
+2021-09-28/23:22:39		Entered the class: day_predictions
+2021-09-28/23:22:39		Entered the function: predict of the class: day_predictions
+2021-09-28/23:22:41		Predicting the output for user input using day.sav
+2021-09-28/23:22:41		Exited the function: predict of the class: day_predictions
+2021-09-28/23:22:59		Current Script: hr_predictions.py
+2021-09-28/23:22:59		Entered the class: hour_predictions
+2021-09-28/23:22:59		Entered the function: predict of the class: hour_predictions
+2021-09-28/23:22:59		Predicting the output for user input using hour.sav
+2021-09-28/23:22:59		Exited the function: predict of the class: hour_predictions
+2021-09-29/00:20:20		Current Script: day_predictions.py
+2021-09-29/00:20:20		Entered the class: day_predictions
+2021-09-29/00:20:20		Entered the function: predict of the class: day_predictions
+2021-09-29/00:20:23		Predicting the output for user input using day.sav
+2021-09-29/00:20:23		Exited the function: predict of the class: day_predictions
+2021-09-29/00:34:38		Current Script: day_predictions.py
+2021-09-29/00:34:38		Entered the class: day_predictions
+2021-09-29/00:34:38		Entered the function: predict of the class: day_predictions
+2021-09-29/00:34:39		Predicting the output for user input using day.sav
+2021-09-29/00:34:39		Exited the function: predict of the class: day_predictions
+2021-09-29/00:38:51		Current Script: day_predictions.py
+2021-09-29/00:38:51		Entered the class: day_predictions
+2021-09-29/00:38:51		Entered the function: predict of the class: day_predictions
+2021-09-29/00:38:52		Predicting the output for user input using day.sav
+2021-09-29/00:38:52		Exited the function: predict of the class: day_predictions
+2021-09-29/22:22:49		Current Script: day_predictions.py
+2021-09-29/22:22:49		Entered the class: day_predictions
+2021-09-29/22:22:49		Entered the function: predict of the class: day_predictions
+2021-09-29/22:22:52		Predicting the output for user input using day.sav
+2021-09-29/22:22:52		Exited the function: predict of the class: day_predictions
+2021-09-29/22:24:47		Current Script: day_predictions.py
+2021-09-29/22:24:47		Entered the class: day_predictions
+2021-09-29/22:24:47		Entered the function: predict of the class: day_predictions
+2021-09-29/22:24:47		Predicting the output for user input using day.sav
+2021-09-29/22:24:47		Exited the function: predict of the class: day_predictions
+2021-09-29/22:27:17		Current Script: hr_predictions.py
+2021-09-29/22:27:17		Entered the class: hour_predictions
+2021-09-29/22:27:17		Entered the function: predict of the class: hour_predictions
+2021-09-29/22:27:18		Predicting the output for user input using hour.sav
+2021-09-29/22:27:18		Exited the function: predict of the class: hour_predictions
+2021-10-01/18:18:37		Current Script: hr_predictions.py
+2021-10-01/18:18:37		Entered the class: hour_predictions
+2021-10-01/18:18:37		Entered the function: predict of the class: hour_predictions
+2021-10-01/18:18:40		Predicting the output for user input using hour.sav
+2021-10-01/18:18:40		Exited the function: predict of the class: hour_predictions
+2021-10-01/18:19:52		Current Script: hr_predictions.py
+2021-10-01/18:19:52		Entered the class: hour_predictions
+2021-10-01/18:19:52		Entered the function: predict of the class: hour_predictions
+2021-10-01/18:19:53		Predicting the output for user input using hour.sav
+2021-10-01/18:19:53		Exited the function: predict of the class: hour_predictions
+2021-10-01/18:20:03		Current Script: hr_predictions.py
+2021-10-01/18:20:03		Entered the class: hour_predictions
+2021-10-01/18:20:03		Entered the function: predict of the class: hour_predictions
+2021-10-01/18:20:03		Predicting the output for user input using hour.sav
+2021-10-01/18:20:03		Exited the function: predict of the class: hour_predictions
+2021-10-01/18:21:21		Current Script: hr_predictions.py
+2021-10-01/18:21:21		Entered the class: hour_predictions
+2021-10-01/18:21:21		Entered the function: predict of the class: hour_predictions
+2021-10-01/18:21:22		Predicting the output for user input using hour.sav
+2021-10-01/18:21:22		Exited the function: predict of the class: hour_predictions
+2021-10-01/18:23:10		Current Script: hr_predictions.py
+2021-10-01/18:23:10		Entered the class: hour_predictions
+2021-10-01/18:23:10		Entered the function: predict of the class: hour_predictions
+2021-10-01/18:23:11		Predicting the output for user input using hour.sav
+2021-10-01/18:23:11		Exited the function: predict of the class: hour_predictions
+2021-10-01/18:23:25		Current Script: hr_predictions.py
+2021-10-01/18:23:25		Entered the class: hour_predictions
+2021-10-01/18:23:25		Entered the function: predict of the class: hour_predictions
+2021-10-01/18:23:26		Predicting the output for user input using hour.sav
+2021-10-01/18:23:26		Exited the function: predict of the class: hour_predictions
+2021-10-01/18:28:59		Current Script: hr_predictions.py
+2021-10-01/18:28:59		Entered the class: hour_predictions
+2021-10-01/18:28:59		Entered the function: predict of the class: hour_predictions
+2021-10-01/18:29:02		Predicting the output for user input using hour.sav
+2021-10-01/18:29:02		Exited the function: predict of the class: hour_predictions
+2021-10-01/18:34:13		Current Script: day_predictions.py
+2021-10-01/18:34:13		Entered the class: day_predictions
+2021-10-01/18:34:13		Entered the function: predict of the class: day_predictions
+2021-10-01/18:34:16		Predicting the output for user input using day.sav
+2021-10-01/18:34:16		Exited the function: predict of the class: day_predictions
+2021-10-01/18:34:54		Current Script: day_predictions.py
+2021-10-01/18:34:54		Entered the class: day_predictions
+2021-10-01/18:34:54		Entered the function: predict of the class: day_predictions
+2021-10-01/18:34:56		Predicting the output for user input using day.sav
+2021-10-01/18:34:57		Exited the function: predict of the class: day_predictions
+2021-10-01/18:35:58		Current Script: hr_predictions.py
+2021-10-01/18:35:58		Entered the class: hour_predictions
+2021-10-01/18:35:58		Entered the function: predict of the class: hour_predictions
+2021-10-01/18:35:58		Predicting the output for user input using hour.sav
+2021-10-01/18:35:58		Exited the function: predict of the class: hour_predictions
+2021-10-01/18:36:38		Current Script: hr_predictions.py
+2021-10-01/18:36:38		Entered the class: hour_predictions
+2021-10-01/18:36:38		Entered the function: predict of the class: hour_predictions
+2021-10-01/18:36:38		Predicting the output for user input using hour.sav
+2021-10-01/18:36:38		Exited the function: predict of the class: hour_predictions
+2021-10-01/18:37:21		Current Script: hr_predictions.py
+2021-10-01/18:37:21		Entered the class: hour_predictions
+2021-10-01/18:37:21		Entered the function: predict of the class: hour_predictions
+2021-10-01/18:37:24		Predicting the output for user input using hour.sav
+2021-10-01/18:37:24		Exited the function: predict of the class: hour_predictions
+2021-10-01/18:57:53		Current Script: day_predictions.py
+2021-10-01/18:57:53		Entered the class: day_predictions
+2021-10-01/18:57:53		Entered the function: predict of the class: day_predictions
+2021-10-01/18:57:54		Predicting the output for user input using day.sav
+2021-10-01/18:57:54		Exited the function: predict of the class: day_predictions
+2021-10-01/18:58:48		Current Script: hr_predictions.py
+2021-10-01/18:58:48		Entered the class: hour_predictions
+2021-10-01/18:58:48		Entered the function: predict of the class: hour_predictions
+2021-10-01/18:58:48		Predicting the output for user input using hour.sav
+2021-10-01/18:58:48		Exited the function: predict of the class: hour_predictions
+2021-10-01/19:05:52		Current Script: day_predictions.py
+2021-10-01/19:05:52		Entered the class: day_predictions
+2021-10-01/19:05:52		Entered the function: predict of the class: day_predictions
+2021-10-01/19:05:52		Predicting the output for user input using day.sav
+2021-10-01/19:05:52		Exited the function: predict of the class: day_predictions
+2021-10-01/19:06:42		Current Script: hr_predictions.py
+2021-10-01/19:06:42		Entered the class: hour_predictions
+2021-10-01/19:06:42		Entered the function: predict of the class: hour_predictions
+2021-10-01/19:06:42		Predicting the output for user input using hour.sav
+2021-10-01/19:06:42		Exited the function: predict of the class: hour_predictions
+2021-10-03/13:52:13		Current Script: day_predictions.py
+2021-10-03/13:52:13		Entered the class: day_predictions
+2021-10-03/13:52:13		Entered the function: predict of the class: day_predictions
+2021-10-03/13:52:15		Predicting the output for user input using day.sav
+2021-10-03/13:52:15		Exited the function: predict of the class: day_predictions
+2021-10-03/14:37:19		Current Script: day_predictions.py
+2021-10-03/14:37:19		Entered the class: day_predictions
+2021-10-03/14:37:19		Entered the function: predict of the class: day_predictions
+2021-10-03/14:37:20		Predicting the output for user input using day.sav
+2021-10-03/14:37:20		Exited the function: predict of the class: day_predictions
+2021-10-03/14:37:35		Current Script: hr_predictions.py
+2021-10-03/14:37:35		Entered the class: hour_predictions
+2021-10-03/14:37:35		Entered the function: predict of the class: hour_predictions
+2021-10-03/14:37:35		Predicting the output for user input using hour.sav
+2021-10-03/14:37:35		Exited the function: predict of the class: hour_predictions
+2021-10-03/16:03:53		Current Script: day_predictions.py
+2021-10-03/16:03:53		Entered the class: day_predictions
+2021-10-03/16:03:53		Entered the function: predict of the class: day_predictions
+2021-10-03/16:03:54		Predicting the output for user input using day.sav
+2021-10-03/16:03:54		Exited the function: predict of the class: day_predictions
+2021-10-03/16:04:12		Current Script: hr_predictions.py
+2021-10-03/16:04:12		Entered the class: hour_predictions
+2021-10-03/16:04:12		Entered the function: predict of the class: hour_predictions
+2021-10-03/16:04:12		Predicting the output for user input using hour.sav
+2021-10-03/16:04:12		Exited the function: predict of the class: hour_predictions

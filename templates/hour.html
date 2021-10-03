@@ -1,0 +1,193 @@
+{% extends 'base.html' %}
+{% block title %}
+Hour Data Prediction
+{% endblock %}
+
+{% block content %}
+<center style="margin-top:2%;" > <h1>Hour Data Prediction</h1> </center>
+
+
+<div class="container">
+    <table class="table table-borderless">
+        <tbody>
+        <tr>
+            <td  colspan="4" style="text-align: left; border-bottom: 1px solid"><p style="font-size: 25px">Enter Inputs</p></td>
+        </tr>
+        <tr>
+            <td colspan="4">
+                <form  action="" method="post">
+                    <div class="row">
+
+                    <div class="col">
+                            <label for="season">Season</label><br>
+                        <select class="form-control" name="season" required>
+                            <option class="input-text text-muted" value=""> Select Season</option>
+                            <option class="text-primary" value="1">Springer</option>
+                            <option class="text-primary" value="2">Summer</option>
+                            <option class="text-primary" value="3">Fall</option>
+                            <option class="text-primary" value="4">Winter</option>
+                        </select>
+                        <script type="text/javascript">
+                            document.getElementById('name').value = "<?php echo $_GET['season'];?>";
+                          </script>
+                </div>
+
+                        <div class="col">
+                            <label for="mnth">Month</label><br>
+                            <select class="form-control" name="mnth" required>
+                                <option class="input-text text-muted" value=""> Select Month</option>
+                                <option class="text-primary" value="1">January</option>
+                                <option class="text-primary" value="2">February</option>
+                                <option class="text-primary" value="3">March</option>
+                                <option class="text-primary" value="4">April</option>
+                                <option class="text-primary" value="5">May</option>
+                                <option class="text-primary" value="6">June</option>
+                                <option class="text-primary" value="7">July</option>
+                                <option class="text-primary" value="8">August</option>
+                                <option class="text-primary" value="9">September</option>
+                                <option class="text-primary" value="10">October</option>
+                                <option class="text-primary" value="11">November</option>
+                                <option class="text-primary" value="12">December</option>
+                            </select>
+                        </div>
+
+
+                        <div class="col">
+                            <label for="hr">Hour</label><br>
+                            <select class="form-control" name="hr" required>
+                                <option class="input-text text-muted" value=""> Select Hour</option>
+                                <option class="text-primary" value="0">12 AM</option>
+                                <option class="text-primary" value="1">1 AM</option>
+                                <option class="text-primary" value="2">2 AM</option>
+                                <option class="text-primary" value="3">3 AM</option>
+                                <option class="text-primary" value="4">4 AM</option>
+                                <option class="text-primary" value="5">5 AM</option>
+                                <option class="text-primary" value="6">6 AM</option>
+                                <option class="text-primary" value="7">7 AM</option>
+                                <option class="text-primary" value="8">8 AM</option>
+                                <option class="text-primary" value="9">9 AM</option>
+                                <option class="text-primary" value="10">10 AM</option>
+                                <option class="text-primary" value="11">11 AM</option>
+                                <option class="text-primary" value="12">12 PM</option>
+                                <option class="text-primary" value="13">1 PM </option>
+                                <option class="text-primary" value="14">2 PM</option>
+                                <option class="text-primary" value="15">3 PM</option>
+                                <option class="text-primary" value="16">4 PM</option>
+                                <option class="text-primary" value="17">5 PM</option>
+                                <option class="text-primary" value="18">6 PM</option>
+                                <option class="text-primary" value="19">7 PM</option>
+                                <option class="text-primary" value="20">8 PM</option>
+                                <option class="text-primary" value="21">9 PM</option>
+                                <option class="text-primary" value="22">10 PM</option>
+                                <option class="text-primary" value="23">11 PM</option>
+                            </select>
+                        </div>
+
+                        <div class="col">
+                            <label for="holiday">Holiday</label><br>
+                            <select class="form-control" name="holiday" required>
+                                <option class="input-text text-muted" value=""> Select Holiday</option>
+                                <option class="text-primary"  value="0">Not Holiday</option>
+                                <option class="text-primary" value="1">Holiday</option>
+                            </select>                        </div>
+
+                        <div class="col">
+                            <label for="weekday">Weekday</label><br>
+                            <select class="form-control" name="weekday" required>
+                                <option class="input-text text-muted" value=""> Select Weekday</option>
+                                <option class="text-primary" value="0">Sunday</option>
+                                <option class="text-primary" value="1">Monday</option>
+                                <option class="text-primary" value="2">Tuesday</option>
+                                <option class="text-primary" value="3">Wednesday</option>
+                                <option class="text-primary" value="4">Thursday</option>
+                                <option class="text-primary" value="5">Friday</option>
+                                <option class="text-primary" value="6">Saturday</option>
+                            </select>
+                        </div>
+
+                    </div><br>
+
+                    <div class="row">
+
+                        <div class="col">
+                            <label for="workingday">Working Day</label><br>
+                            <select class="form-control" name="workingday" required>
+                                <option class="input-text text-muted" value=""> Select Working Day</option>
+                                <option class="text-primary" value="0">Not Working Day</option>
+                                <option class="text-primary" value="1">Working Day</option>
+                            </select>                        
+                        </div>
+
+                        <div class="col">
+                            <label for="weathersit">Weather</label><br>
+                            <select class="form-control" name="weathersit" required>
+                                <option class="input-text text-muted" value=""> Select Weather</option>
+                                <option class="text-primary"  value="1">Clear</option>
+                                <option class="text-primary" value="2">Cloudy</option>
+                                <option class="text-primary" value="3">Rainy</option>
+                                <option class="text-primary" value="4">Heavy Rainy</option>
+                            </select>                       
+                        </div>
+
+                        <div class="col">
+                            <label for="temp">Temperature</label><br>
+                            <input type="text" id="temp" name="temp" class="form-control" placeholder="Temperature ( ﾟC )" value="{{ request.form['temp'] }}" required>
+                        </div>
+
+                        <div class="col">
+                            <label for="humidity">Humidity</label><br>
+                            <input type="text" id="humidity" name="humidity" class="form-control" placeholder="Humidity ( % )" value="{{ request.form['humidity'] }}" required>
+                        </div>
+                        <div class="col">
+                            <label for="windspeed">Wind Speed</label><br>
+                            <input type="text" id="windspeed" name="windspeed" class="form-control" placeholder="Wind Speed (kmph)" value="{{ request.form['windspeed'] }}" required>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <tr><td  colspan="4" style="text-align: right"><button class="btn btn-primary btn-lg">Click to Predict</button></td></tr>
+                    </div>
+                </form>
+            </td>
+        </tr>
+        <tr>
+            <td  colspan="4" style="text-align: left; border-bottom: 1px solid">
+                <p style="font-size: 25px">Predicted Outputs</p>
+            </td>
+        </tr>
+
+        <tr>
+            <td style="text-align: center">Casual</td>
+            <td style="text-align: center">Registered</td>
+            <td colspan="3" style="text-align: center; font-size:30px">Count</td>
+        </tr>
+        {% for item in data %}
+        <tr>
+            <td style="text-align: center">{{ item['casual'] }}</td>
+            <td style="text-align: center">{{ item['registered'] }}</td>
+            <td colspan="3" style="text-align: center; font:40px bold; color:green">{{ item['count'] }}</td>
+        </tr>
+        {% endfor %}
+
+        </tbody>
+    </table>
+</div>
+{% endblock %}
+
+
+<style>
+<!--{% block style %}-->
+
+.table {
+    width: 100%;
+    color: white
+}
+.table td {
+   text-align: left;
+   vertical-align: middle;
+}
+h1{
+   margin: 25px 0px 25px 100px;
+}
+<!--{% endblock %}-->
+</style>
+

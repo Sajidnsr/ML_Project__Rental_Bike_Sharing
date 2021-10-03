@@ -1,0 +1,26 @@
+2021-09-26/19:16:20		Current Script: hyperparameter_tuning.py
+2021-09-26/19:16:20		Entered the class: hyperparametertuning
+2021-09-26/19:16:20		Created saved_models folder in assets directory
+2021-09-26/19:16:20		Entered the function: tune of the class: hyperparametertuning
+2021-09-26/19:16:20		Start of hyperparameter tuning using RandomizedSearchCV
+2021-09-26/19:16:20		End of hyperparameter tuning
+2021-09-26/20:13:06		Exited the function: tune of the class: hyperparametertuning
+2021-09-26/20:13:06		Saved best estimator for day data to day.sav
+2021-09-26/20:13:06		Entered the function: tune of the class: hyperparametertuning
+2021-09-26/20:13:06		Start of hyperparameter tuning using RandomizedSearchCV
+2021-09-26/20:13:06		End of hyperparameter tuning
+2021-09-26/20:45:43		Exited the function: tune of the class: hyperparametertuning
+2021-09-26/20:45:43		Saved best estimator for hour data to hour.sav
+2021-09-26/20:53:45		Current Script: hyperparameter_tuning.py
+2021-09-26/20:53:45		Entered the class: hyperparametertuning
+2021-09-26/20:53:45		Created saved_models folder in assets directory
+2021-09-26/20:53:45		Entered the function: tune of the class: hyperparametertuning
+2021-09-26/20:53:45		Start of hyperparameter tuning using RandomizedSearchCV
+2021-09-26/20:53:45		End of hyperparameter tuning
+2021-09-26/21:03:32		Exited the function: tune of the class: hyperparametertuning
+2021-09-26/21:03:32		Saved best estimator for day data to day.sav
+2021-09-26/21:03:32		Entered the function: tune of the class: hyperparametertuning
+2021-09-26/21:03:32		Start of hyperparameter tuning using RandomizedSearchCV
+2021-09-26/21:03:32		End of hyperparameter tuning
+2021-09-26/21:34:33		Exited the function: tune of the class: hyperparametertuning
+2021-09-26/21:34:33		Saved best estimator for hour data to hour.sav

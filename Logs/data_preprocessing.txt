@@ -1,0 +1,90 @@
+2021-09-26/19:14:15		Current Script: data_preprocess.py
+2021-09-26/19:14:15		Entered the class: preprocess
+2021-09-26/19:14:15		Created preprocessed_data folder in assets directory
+2021-09-26/19:14:15		Start of data preprocessing of the day data
+2021-09-26/19:14:15		Entered the function: dropcolumns of the class: preprocess
+2021-09-26/19:14:15		Dropped the columns: ['instant', 'atemp', 'cnt', 'dteday', 'yr']
+2021-09-26/19:14:15		Exited the function: dropcolumns of the class: preprocess
+2021-09-26/19:14:15		Entered the function: typecasting of the class: preprocess
+2021-09-26/19:14:15		Typecasted the categorical columns: ['season', 'mnth', 'weekday', 'weathersit', 'workingday', 'holiday']
+2021-09-26/19:14:15		Exited the function: typecasting of the class: preprocess
+2021-09-26/19:14:15		Entered the function: onehotencode of the class: preprocess
+2021-09-26/19:14:15		Onehot encoded the categorical columns: ['season', 'mnth', 'weekday', 'weathersit', 'workingday', 'holiday']
+2021-09-26/19:14:15		Exited the function: onehotencode of the class: preprocess
+2021-09-26/19:14:15		Entered the function: over_sampling of the class: preprocess
+2021-09-26/19:14:18		Done with oversampling
+2021-09-26/19:14:18		Exited the function: over_sampling of the class: preprocess
+2021-09-26/19:14:18		END of data preprocessing of the day data
+2021-09-26/19:14:18		Saved processed day data to processed_day.csv
+2021-09-26/19:14:18		Start of data preprocessing of the hour data
+2021-09-26/19:14:18		Entered the function: dropcolumns of the class: preprocess
+2021-09-26/19:14:18		Dropped the columns: ['instant', 'atemp', 'cnt', 'dteday', 'yr']
+2021-09-26/19:14:18		Exited the function: dropcolumns of the class: preprocess
+2021-09-26/19:14:18		Entered the function: typecasting of the class: preprocess
+2021-09-26/19:14:18		Typecasted the categorical columns: ['season', 'mnth', 'weekday', 'hr', 'weathersit', 'workingday', 'holiday']
+2021-09-26/19:14:18		Exited the function: typecasting of the class: preprocess
+2021-09-26/19:14:18		Entered the function: onehotencode of the class: preprocess
+2021-09-26/19:14:18		Onehot encoded the categorical columns: ['season', 'mnth', 'weekday', 'hr', 'weathersit', 'workingday', 'holiday']
+2021-09-26/19:14:18		Exited the function: onehotencode of the class: preprocess
+2021-09-26/19:14:18		END of data preprocessing of the hour data
+2021-09-26/19:14:18		Saved processed day hour to processed_hour.csv
+2021-09-28/10:57:14		Current Script: data_preprocess.py
+2021-09-28/10:57:14		Entered the class: preprocess
+2021-09-28/10:57:14		Created preprocessed_data folder in assets directory
+2021-09-28/10:57:14		Start of data preprocessing of the day data
+2021-09-28/10:57:14		Entered the function: dropcolumns of the class: preprocess
+2021-09-28/10:57:14		Dropped the columns: ['instant', 'atemp', 'cnt', 'dteday', 'yr']
+2021-09-28/10:57:14		Exited the function: dropcolumns of the class: preprocess
+2021-09-28/10:57:14		Entered the function: typecasting of the class: preprocess
+2021-09-28/10:57:14		Typecasted the categorical columns: ['season', 'mnth', 'weekday', 'weathersit', 'workingday', 'holiday']
+2021-09-28/10:57:14		Exited the function: typecasting of the class: preprocess
+2021-09-28/10:57:14		Entered the function: onehotencode of the class: preprocess
+2021-09-28/10:57:15		Onehot encoded the categorical columns: ['season', 'mnth', 'weekday', 'weathersit', 'workingday', 'holiday']
+2021-09-28/10:57:15		Exited the function: onehotencode of the class: preprocess
+2021-09-28/10:57:15		Entered the function: over_sampling of the class: preprocess
+2021-09-28/10:57:28		Done with oversampling
+2021-09-28/10:57:28		Exited the function: over_sampling of the class: preprocess
+2021-09-28/10:57:28		END of data preprocessing of the day data
+2021-09-28/10:57:28		Saved processed day data to processed_day.csv
+2021-09-28/10:57:28		Start of data preprocessing of the hour data
+2021-09-28/10:57:28		Entered the function: dropcolumns of the class: preprocess
+2021-09-28/10:57:28		Dropped the columns: ['instant', 'atemp', 'cnt', 'dteday', 'yr']
+2021-09-28/10:57:28		Exited the function: dropcolumns of the class: preprocess
+2021-09-28/10:57:28		Entered the function: typecasting of the class: preprocess
+2021-09-28/10:57:28		Typecasted the categorical columns: ['season', 'mnth', 'weekday', 'hr', 'weathersit', 'workingday', 'holiday']
+2021-09-28/10:57:28		Exited the function: typecasting of the class: preprocess
+2021-09-28/10:57:28		Entered the function: onehotencode of the class: preprocess
+2021-09-28/10:57:28		Onehot encoded the categorical columns: ['season', 'mnth', 'weekday', 'hr', 'weathersit', 'workingday', 'holiday']
+2021-09-28/10:57:28		Exited the function: onehotencode of the class: preprocess
+2021-09-28/10:57:28		END of data preprocessing of the hour data
+2021-09-28/10:57:28		Saved processed day hour to processed_hour.csv
+2021-10-03/14:52:07		Current Script: data_preprocess.py
+2021-10-03/14:52:07		Entered the class: preprocess
+2021-10-03/14:52:07		Created preprocessed_data folder in assets directory
+2021-10-03/14:52:07		Start of data preprocessing of the day data
+2021-10-03/14:52:07		Entered the function: dropcolumns of the class: preprocess
+2021-10-03/14:52:07		Dropped the columns: ['instant', 'atemp', 'cnt', 'dteday', 'yr']
+2021-10-03/14:52:07		Exited the function: dropcolumns of the class: preprocess
+2021-10-03/14:52:07		Entered the function: typecasting of the class: preprocess
+2021-10-03/14:52:07		Typecasted the categorical columns: ['season', 'mnth', 'weekday', 'weathersit', 'workingday', 'holiday']
+2021-10-03/14:52:07		Exited the function: typecasting of the class: preprocess
+2021-10-03/14:52:07		Entered the function: onehotencode of the class: preprocess
+2021-10-03/14:52:07		Onehot encoded the categorical columns: ['season', 'mnth', 'weekday', 'weathersit', 'workingday', 'holiday']
+2021-10-03/14:52:07		Exited the function: onehotencode of the class: preprocess
+2021-10-03/14:52:07		Entered the function: over_sampling of the class: preprocess
+2021-10-03/14:52:10		Done with oversampling
+2021-10-03/14:52:10		Exited the function: over_sampling of the class: preprocess
+2021-10-03/14:52:10		END of data preprocessing of the day data
+2021-10-03/14:52:10		Saved processed day data to processed_day.csv
+2021-10-03/14:52:10		Start of data preprocessing of the hour data
+2021-10-03/14:52:10		Entered the function: dropcolumns of the class: preprocess
+2021-10-03/14:52:10		Dropped the columns: ['instant', 'atemp', 'cnt', 'dteday', 'yr']
+2021-10-03/14:52:10		Exited the function: dropcolumns of the class: preprocess
+2021-10-03/14:52:10		Entered the function: typecasting of the class: preprocess
+2021-10-03/14:52:10		Typecasted the categorical columns: ['season', 'mnth', 'weekday', 'hr', 'weathersit', 'workingday', 'holiday']
+2021-10-03/14:52:10		Exited the function: typecasting of the class: preprocess
+2021-10-03/14:52:10		Entered the function: onehotencode of the class: preprocess
+2021-10-03/14:52:10		Onehot encoded the categorical columns: ['season', 'mnth', 'weekday', 'hr', 'weathersit', 'workingday', 'holiday']
+2021-10-03/14:52:10		Exited the function: onehotencode of the class: preprocess
+2021-10-03/14:52:10		END of data preprocessing of the hour data
+2021-10-03/14:52:10		Saved processed day hour to processed_hour.csv
